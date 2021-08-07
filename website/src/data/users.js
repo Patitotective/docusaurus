@@ -749,6 +749,14 @@ const Users = [
     tags: ['opensource','design'],
   },
   {
+    title: 'PREFS documentation', 
+    description: 'Documentation of PREFS python library', 
+    preview: require('./showcase/prefs.png'), 
+    website: 'https://patitotective.github.io/PREFS/', 
+    source: 'https://github.com/Patitotective/PREFS/tree/gh-pages', 
+    tags: ['opensource', 'python', 'documentation']
+  }
+  {
     title: 'Prismatic',
     description: 'An Integration Platform for B2B Software Companies',
     preview: require('./showcase/prismatic.png'),
